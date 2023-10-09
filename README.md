@@ -12,9 +12,11 @@ Require :
 Senders CSV format :
 
 email,  password
+
 example@gmail.com,PA$$
 
 Receivers CSV format: 
 
 email
+
 example1@gmail.com
