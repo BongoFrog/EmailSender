@@ -1,0 +1,24 @@
+{
+  "name": "emailsender",
+  "version": "1.0.0",
+  "description": "basic email sender from many mails to other many mails",
+  "main": "GmailSender.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "EmailSender"
+  },
+  "keywords": [
+    "mail"
+  ],
+  "author": "TakoFrog",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.3.5",
+    "csv-parse": "^5.5.2",
+    "csv-parser": "^3.0.0",
+    "nodemailer": "^6.9.6"
+  }
+}
